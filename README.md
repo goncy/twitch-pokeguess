@@ -29,4 +29,4 @@ Texts are in Spanish, you can change those on `/packages/server/app.ts`
 | !hint | Get a hint for current Pokemon |
 
 ## Pokemon list
-First generation Pokemon are present, to get more, uncomment, in order, Pokemons on `/packages/server/api.ts`
+First generation Pokemon are present, to get more, uncomment, in order, Pokemons on `/packages/server/constants.ts`

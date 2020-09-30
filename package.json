@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "bootstrap": "lerna bootstrap",
     "start": "lerna run start --parallel --stream"
   },
   "devDependencies": {
