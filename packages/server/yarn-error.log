@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn init
+
+PATH: 
+  /Users/goncy/Library/Android/sdk/tools:/Users/goncy/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/goncy/Library/Android/sdk/tools:/Users/goncy/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/3.8/bin:/Users/goncy/flutter/bin:/Users/goncy/Library/Android/sdk/android-sdk:/Users/goncy/Library/Android/sdk/android-sdk/tools:/Users/goncy/Library/Android/sdk/android-sdk/tools/bin:/Users/goncy/Library/Android/sdk/android-sdk/platform-tools:/Users/goncy/flutter/bin:/Users/goncy/Library/Android/sdk/android-sdk:/Users/goncy/Library/Android/sdk/android-sdk/tools:/Users/goncy/Library/Android/sdk/android-sdk/tools/bin:/Users/goncy/Library/Android/sdk/android-sdk/platform-tools
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  14.3.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/usr/local/lib/node_modules/yarn/lib/cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:873:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1140:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:302:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
